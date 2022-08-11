@@ -1,6 +1,6 @@
 # Employee Payroll App With Vue
 
-npm init vite-app employeePayrollApp - To Create New Project. br
+npm init vite-app employeePayrollApp - To Create New Project. </br>
 cd employeePayrollApp       
 npm install  
 npm run dev  
